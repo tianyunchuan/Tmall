@@ -147,7 +147,7 @@ type(df['href'])
 # connection = MySQLdb.connect(
 #     host='rm-uf675p1vvls0t85vko.mysql.rds.aliyuncs.com',
 #     user='root',
-#     passwd='tian',
+#     passwd='Tt65212879',
 #     port=3306,
 #     db='tm_xiaoliang',
 #     charset='utf8'
